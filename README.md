@@ -1,8 +1,8 @@
 # 📊 Save and Load Reports in React PivotView Component
 
 [![React](https://img.shields.io/badge/React-18.3.1-61DAFB.svg?logo=react)](https://reactjs.org) 
-[![Syncfusion EJ2](https://img.shields.io/badge/Syncfusion%20EJ2-26.1.39-0078D4.svg)](https://www.syncfusion.com/react-components) 
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) 
+[![Syncfusion React](https://img.shields.io/badge/Syncfusion%20-React-0078D4.svg)](https://www.syncfusion.com/react-components) 
+[![License](https://img.shields.io/badge/license-SEE%20LICENSE-blue.svg)](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf)
 [![Node.js](https://img.shields.io/badge/Node.js-14+-339933.svg?logo=node.js)](https://nodejs.org/)
 
 > **Production-ready React implementation for saving and loading pivot table reports** — Seamlessly persist pivot table configurations using Syncfusion EJ2 PivotView toolbar integration with modern React patterns and best practices.
@@ -104,7 +104,7 @@ npm eject       # Eject from react-scripts (irreversible)
 ## 📚 Resources & Documentation
 
 - [Syncfusion React PivotView Docs](https://www.syncfusion.com/react-components/react-pivot-table)
-- [Syncfusion PivotView Toolbar Guide](https://www.syncfusion.com/documentation/react/pivot-table/tool-bar/)
+- [Syncfusion PivotView Toolbar Guide](https://ej2.syncfusion.com/react/documentation/pivotview/tool-bar)
 - [React Official Documentation](https://react.dev)
 - [MDN FileReader API](https://developer.mozilla.org/en-US/docs/Web/API/FileReader)
 
@@ -125,5 +125,5 @@ This project is licensed under the **Syncfusion Community License**. See [Syncfu
 
 For issues, questions, or suggestions:
 - 📧 Open an [Issue](https://github.com/SyncfusionExamples/save-and-load-report-through-the-toolbar-in-react-pivotview-component/issues)
-- 💬 Visit [Syncfusion React Support](https://www.syncfusion.com/forums/react)
-- 📖 Check [Syncfusion Documentation](https://www.syncfusion.com/documentation/react/)
+- 💬 Visit [Syncfusion React Support](https://www.syncfusion.com/forums/react-js2)
+- 📖 Check [Syncfusion Documentation](https://ej2.syncfusion.com/react/documentation/pivotview/getting-started)
